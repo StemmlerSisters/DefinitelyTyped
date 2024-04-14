@@ -7,7 +7,7 @@
     ],
     "dependencies": {
         "@types/react": "*",
-        "flatpickr": "4.6.9"
+        "flatpickr": "4.6.13"
     },
     "devDependencies": {
         "@types/carbon-components-react": "workspace:."
