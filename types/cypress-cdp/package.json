@@ -7,7 +7,7 @@
     ],
     "dependencies": {
         "cypress": "9.7.0",
-        "devtools-protocol": "0.0.1173815"
+        "devtools-protocol": "0.0.1275388"
     },
     "devDependencies": {
         "@types/cypress-cdp": "workspace:."
